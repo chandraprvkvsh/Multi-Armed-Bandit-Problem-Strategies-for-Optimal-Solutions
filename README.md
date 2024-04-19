@@ -1,4 +1,3 @@
-# Solving-multi-armed-bandit-problems
 # Brief Introduction
 
 Objective of this project was to illlustrate various ways of approaching a multi armed bandit problem
